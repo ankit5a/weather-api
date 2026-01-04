@@ -1,8 +1,8 @@
----
 # 🌦️ Weather API with Redis Caching
 
 A production-ready **Weather REST API** built using **Node.js, Express, Redis**, and a **3rd-party Weather API**.
 This project demonstrates real-world backend concepts like **API integration, caching, rate limiting, and clean architecture**.
+
 ---
 
 ## 🚀 Features
@@ -245,5 +245,3 @@ Response:
 **Ankit Anand**
 Frontend / Full-Stack Developer
 Learning backend architecture & system design 🚀
-
----
